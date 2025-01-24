@@ -38,7 +38,7 @@ def hello():
     print("Hello World!")
 }}}
 
-|=Header =Header 2|
+|=Header|=Header 2|
 |Cell 1|Cell 2|
 
 > Blockquote text
