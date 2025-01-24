@@ -1,0 +1,47 @@
+= Heading 1
+== Heading 2
+=== Heading 3
+==== Heading 4
+===== Heading 5
+====== Heading 6
+
+Text formatting:
+**Bold text**
+//Italic text//
+__Underline text__
+##Monospace text##
+
+Links and Images:
+[[https://google.com|Link to Google]]
+
+Internet hosted images:
+{{https://images.unsplash.com/photo-1495616811223-4d98c6e9c869}}
+{{https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=400}}
+
+Local images:
+{{./images/local.png}}
+{{./images/logo.svg}}
+
+Lists:
+* Unordered
+* List
+** Nested
+** Items
+
+# Ordered
+# List
+## Nested
+## Items
+
+{{{
+def hello():
+    print("Hello World!")
+}}}
+
+|=Header =Header 2|
+|Cell 1|Cell 2|
+
+> Blockquote text
+> Multiple lines
+
+----
